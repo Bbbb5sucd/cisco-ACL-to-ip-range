@@ -26,6 +26,14 @@ JSON output:
 python acl2range.py -i acl.txt --format json
 ```
 
+## GUI
+
+Run the Tkinter GUI (no extra dependencies):
+
+```bash
+python acl2range_gui.py
+```
+
 ## Examples
 
 Input:
